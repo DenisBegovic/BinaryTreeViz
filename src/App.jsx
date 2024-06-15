@@ -1,8 +1,7 @@
 import { useState } from 'react'
 import Canvas from './Components/Canvas';
 import Input from './Components/Input';
-import { BinarySearchTree } from './Classes/BinarySearchTree';
-import TreeNode from './Classes/node.js';
+
 
 
 function App() {
