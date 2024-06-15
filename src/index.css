@@ -2,6 +2,13 @@ body {
   background-color: whitesmoke;
 }
 
+.app {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
 .main {
   height: 100vh;
   display: flex;

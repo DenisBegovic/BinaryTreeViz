@@ -27,7 +27,7 @@ function App() {
   }
 
   return <div className='app'>
-          <h1>BinarySearchTree vizualizer</h1>
+          <h1>BinaryTree vizualizer</h1>
           <div className='main'>
             <Canvas values={values} />
             <Input submit={submitValues} />
